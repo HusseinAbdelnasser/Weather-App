@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HusseinAbdelnasser/Weather-App.git/static/css/main.ade08547.chunk.css",
+    "main.js": "/HusseinAbdelnasser/Weather-App.git/static/js/main.b2cd7144.chunk.js",
+    "main.js.map": "/HusseinAbdelnasser/Weather-App.git/static/js/main.b2cd7144.chunk.js.map",
+    "runtime-main.js": "/HusseinAbdelnasser/Weather-App.git/static/js/runtime-main.74a672ce.js",
+    "runtime-main.js.map": "/HusseinAbdelnasser/Weather-App.git/static/js/runtime-main.74a672ce.js.map",
+    "static/js/2.09a74253.chunk.js": "/HusseinAbdelnasser/Weather-App.git/static/js/2.09a74253.chunk.js",
+    "static/js/2.09a74253.chunk.js.map": "/HusseinAbdelnasser/Weather-App.git/static/js/2.09a74253.chunk.js.map",
+    "static/js/3.23cfa011.chunk.js": "/HusseinAbdelnasser/Weather-App.git/static/js/3.23cfa011.chunk.js",
+    "static/js/3.23cfa011.chunk.js.map": "/HusseinAbdelnasser/Weather-App.git/static/js/3.23cfa011.chunk.js.map",
+    "index.html": "/HusseinAbdelnasser/Weather-App.git/index.html",
+    "static/css/main.ade08547.chunk.css.map": "/HusseinAbdelnasser/Weather-App.git/static/css/main.ade08547.chunk.css.map",
+    "static/js/2.09a74253.chunk.js.LICENSE.txt": "/HusseinAbdelnasser/Weather-App.git/static/js/2.09a74253.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74a672ce.js",
+    "static/js/2.09a74253.chunk.js",
+    "static/css/main.ade08547.chunk.css",
+    "static/js/main.b2cd7144.chunk.js"
+  ]
+}
